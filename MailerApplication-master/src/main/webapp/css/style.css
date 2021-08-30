@@ -1,0 +1,9 @@
+.linkText{
+	fonr-weight: bold;
+	color: blue;
+}
+
+.navbar-default .navbar-brand{
+	color: #3F3D56;
+	font-weight: bold;
+}
